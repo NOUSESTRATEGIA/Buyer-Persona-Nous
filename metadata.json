@@ -1,0 +1,5 @@
+{
+  "name": "AI Buyer Persona Generator",
+  "description": "An application that generates a detailed buyer persona for a business, including a realistic image, based on user-provided information about their company and target audience.",
+  "requestFramePermissions": []
+}
